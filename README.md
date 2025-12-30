@@ -1,18 +1,15 @@
-<h1 align="center">Hi there👋, I'm Bikesh Yadav</h1>
-<h3 align="center">About Me</h3>
+# Hi 👋, I'm Bikesh Yadav  
 
-<p>I am a engineering student who is learning **programming and development**.  
-I like to build small projects, learn new things daily, and improve step by step 🚀 </p>
+I am a engineering student who is learning **programming and development**.  
+I like to build small projects, learn new things daily, and improve step by step 🚀  
 
+Currently I am focusing on:
+- Data Structures & Algorithms  
+- Web Development  
+- Problem Solving  
+- Real-world projects  
 
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikesh-ydv" alt="bikesh-ydv" /></p> -->
-<p>Currently I am focusing on:</p>
-<ul>
-  <li>Machine Learning</li>
-  <li>Web Development  </li>
-  <li> Data Structures & Algorithms</li>
-</ul>
+---
 
 ## 🧠 About Me
 - 🎓 Engineering student  
@@ -21,7 +18,30 @@ I like to build small projects, learn new things daily, and improve step by step
 - 🔁 Trying to be consistent every day  
 - 🌱 Still learning, still improving  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-- 📫 How to reach me **coolbikesh07@gmail.com**
+---
+
+## 🛠️ Languages & Tools I Use
+- C  
+- C++  
+- JavaScript  
+- HTML & CSS  
+- Git & GitHub  
+- React (learning)  
+
+---
+
+## 📌 What you will find here
+- Practice problems  
+- Mini projects  
+- College & personal projects  
+- Learning experiments  
+
+I believe in **learning by doing**, so most of my repos are part of my journey.
+
+---
+
+## 🤝 Let’s Connect
+- GitHub: https://github.com/bikesh-ydv  
+
+Feel free to check my repositories and collaborate 🤍  
+
