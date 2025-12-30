@@ -4,9 +4,9 @@ I am a engineering student who is learning **programming and development**.
 I like to build small projects, learn new things daily, and improve step by step 🚀  
 
 Currently I am focusing on:
+- Machine Learning
 - Data Structures & Algorithms  
-- Web Development  
-- Problem Solving  
+- Web Development   
 - Real-world projects  
 
 ---
@@ -22,11 +22,15 @@ Currently I am focusing on:
 
 ## 🛠️ Languages & Tools I Use
 - C  
-- C++  
-- JavaScript  
-- HTML & CSS  
-- Git & GitHub  
-- React (learning)  
+- C++
+- Python
+- Numpy  
+- Pandas
+- HTML & CSS
+- JavaScript
+- React
+- Nextjs (learning)
+- Git & GitHub
 
 ---
 
